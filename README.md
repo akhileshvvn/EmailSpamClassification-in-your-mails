@@ -13,3 +13,9 @@ PRECAUTION:
   - go to Account -> Security -> Turn (ON) Less secure App Access.
   - Turn off after getting your outputs.
   - Don't try on your Main or personal account, Try with some Dummy Account.
+  
+  
+  
+  
+  DATASET LINK:
+  https://www.kaggle.com/veleon/ham-and-spam-dataset
