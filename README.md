@@ -11,5 +11,5 @@ PRECAUTION:
   - In code you have to enter your email and password too.
   - Some changes needed on gmail account to execute code.
   - go to Account -> Security -> Turn (ON) Less secure App Access.
-  -Turn off after getting your outputs.
+  - Turn off after getting your outputs.
   - Don't try on your Main or personal account, Try with some Dummy Account.
